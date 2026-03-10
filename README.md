@@ -61,60 +61,6 @@ Studysync-UI-Clone
 └── README.md
 ```
 
----
-
-# ✨ Features
-
-### 📌 Navigation Bar
-
-* Logo and brand name
-* Navigation links
-* Contact button
-* Mobile hamburger icon
-
-### 🎯 Hero Section
-
-* Platform introduction
-* Description text
-* Call-to-action buttons
-* Hero illustration
-
-### 🏢 Trusted Companies
-
-Displays partner companies such as:
-
-* Google
-* Microsoft
-* VectorEdu
-* Industry Partner
-
-### ⚡ Features Section
-
-Highlights platform capabilities:
-
-* Personalized Learning
-* Advanced Analytics
-* Affordable Learning
-* Innovative Technology
-* Industry Partnerships
-
-### 💬 Testimonials
-
-Displays feedback from users with avatars.
-
-### 📧 Newsletter
-
-Allows users to subscribe for updates.
-
-### 🔗 Footer
-
-Includes:
-
-* Social media icons
-* Navigation links
-* Copyright information
-
----
 
 # 💻 How to Run the Project
 
