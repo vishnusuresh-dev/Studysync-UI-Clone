@@ -1,13 +1,3 @@
-Here is a **complete polished README.md** with:
-
-✅ Clickable **Live Demo**
-✅ Visible **Preview Image**
-✅ Clean **GitHub formatting**
-✅ Professional **portfolio style**
-
-You can **copy-paste this directly into your README.md**.
-
----
 
 # 📚 StudySync UI Clone
 
@@ -34,9 +24,9 @@ Or click below:
 # 📸 Project Preview
 
 <p align="center">
-  <img src="assets/preview/screenshot.png" width="900">
-  <img src="assets/preview/screenshot 2.png" width="900">
-  <img src="assets/preview/screenshot 3.png" width="900">
+  <img src="assets/preview/Screenshot.png" width="900">
+  <img src="assets/preview/Screenshot 2.png" width="900">
+  <img src="assets/preview/Screenshot 3.png" width="900">
 </p>
 
 ---
