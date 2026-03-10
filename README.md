@@ -23,8 +23,6 @@ https://vishnusuresh-dev.github.io/Studysync-UI-Clone/
 
 ```
 assets/preview/screenshot.png
-assets/preview/screenshot 2.png
-assets/preview/screenshot 3.png
 ```
 
 ---
