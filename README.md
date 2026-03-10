@@ -168,6 +168,6 @@ This project helped practice:
 
 **Vishnu S**
 
-Frontend Developer | UI Enthusiast
+Software Developer 
 
 ---
