@@ -1,8 +1,18 @@
+Here is a **complete polished README.md** with:
+
+✅ Clickable **Live Demo**
+✅ Visible **Preview Image**
+✅ Clean **GitHub formatting**
+✅ Professional **portfolio style**
+
+You can **copy-paste this directly into your README.md**.
+
+---
+
 # 📚 StudySync UI Clone
 
-
-
 A **modern responsive landing page UI clone** of **StudySync**, built using **HTML5 and CSS3**.
+
 This project focuses on **frontend layout design, responsive styling, and UI replication**.
 
 It recreates a professional educational platform landing page including **hero sections, feature highlights, testimonials, partner companies, newsletter signup, and footer**.
@@ -11,19 +21,23 @@ It recreates a professional educational platform landing page including **hero s
 
 # 🚀 Live Demo
 
-👉 Add your live demo link here
+👉 **View Live Project**
 
-```
-https://vishnusuresh-dev.github.io/Studysync-UI-Clone/
-```
+🔗 **[https://vishnusuresh-dev.github.io/Studysync-UI-Clone/](https://vishnusuresh-dev.github.io/Studysync-UI-Clone/)**
+
+Or click below:
+
+[🌐 Open Live Demo](https://vishnusuresh-dev.github.io/Studysync-UI-Clone/)
 
 ---
 
 # 📸 Project Preview
 
-```
-assets/preview/screenshot.png
-```
+<p align="center">
+  <img src="assets/preview/screenshot.png" width="900">
+  <img src="assets/preview/screenshot 2.png" width="900">
+  <img src="assets/preview/screenshot 3.png" width="900">
+</p>
 
 ---
 
@@ -56,11 +70,13 @@ Studysync-UI-Clone
 │   │   ├── avatar2.png
 │   │   └── avatar3.png
 │   │
-│   └── icons
+│   └── preview
+│        └── screenshot.png
 │
 └── README.md
 ```
 
+---
 
 # 💻 How to Run the Project
 
@@ -70,11 +86,15 @@ Studysync-UI-Clone
 git clone https://github.com/vishnusuresh-dev/Studysync-UI-Clone.git
 ```
 
+---
+
 ### 2️⃣ Open the project folder
 
 ```
-cd studysync-ui-clone
+cd Studysync-UI-Clone
 ```
+
+---
 
 ### 3️⃣ Run the project
 
@@ -105,7 +125,7 @@ This project helped practice:
 * Add **JavaScript mobile menu toggle**
 * Add **animations and hover effects**
 * Improve **mobile responsiveness**
-* Convert to **React components**
+* Convert project to **React components**
 * Add **dark mode**
 
 ---
@@ -114,6 +134,9 @@ This project helped practice:
 
 **Vishnu S**
 
-Software Developer 
+Software Developer
+
+🔗 GitHub:
+[https://github.com/vishnusuresh-dev](https://github.com/vishnusuresh-dev)
 
 ---
