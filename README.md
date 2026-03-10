@@ -1,5 +1,5 @@
 
-# 📚 StudySync UI Clone
+# StudySync UI Clone
 
 A **modern responsive landing page UI clone** of **StudySync**, built using **HTML5 and CSS3**.
 
@@ -9,9 +9,9 @@ It recreates a professional educational platform landing page including **hero s
 
 ---
 
-# 🚀 Live Demo
+#  Live Demo
 
-👉 **View Live Project**
+ **View Live Project**
 
 🔗 **[https://vishnusuresh-dev.github.io/Studysync-UI-Clone/](https://vishnusuresh-dev.github.io/Studysync-UI-Clone/)**
 
@@ -21,7 +21,7 @@ Or click below:
 
 ---
 
-# 📸 Project Preview
+#  Project Preview
 
 <p align="center">
   <img src="assets/preview/Screenshot.png" width="900">
@@ -29,7 +29,7 @@ Or click below:
 
 ---
 
-# 🛠️ Technologies Used
+#  Technologies Used
 
 * **HTML5**
 * **CSS3**
@@ -38,7 +38,7 @@ Or click below:
 
 ---
 
-# 📂 Project Structure
+#  Project Structure
 
 ```
 Studysync-UI-Clone
@@ -66,7 +66,7 @@ Studysync-UI-Clone
 
 ---
 
-# 💻 How to Run the Project
+#  How to Run the Project
 
 ### 1️⃣ Clone the repository
 
@@ -96,7 +96,7 @@ in your browser.
 
 ---
 
-# 📚 Learning Goals
+#  Learning Goals
 
 This project helped practice:
 
@@ -108,7 +108,7 @@ This project helped practice:
 
 ---
 
-# 🔮 Future Improvements
+#  Future Improvements
 
 * Add **JavaScript mobile menu toggle**
 * Add **animations and hover effects**
@@ -118,7 +118,7 @@ This project helped practice:
 
 ---
 
-# 👨‍💻 Author
+#  Author
 
 **Vishnu S**
 
