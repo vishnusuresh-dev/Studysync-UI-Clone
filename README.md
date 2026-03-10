@@ -1,0 +1,173 @@
+# 📚 StudySync UI Clone
+
+
+
+A **modern responsive landing page UI clone** of **StudySync**, built using **HTML5 and CSS3**.
+This project focuses on **frontend layout design, responsive styling, and UI replication**.
+
+It recreates a professional educational platform landing page including **hero sections, feature highlights, testimonials, partner companies, newsletter signup, and footer**.
+
+---
+
+# 🚀 Live Demo
+
+👉 Add your live demo link here
+
+```
+https://vishnusuresh-dev.github.io/Studysync-UI-Clone/
+```
+
+---
+
+# 📸 Project Preview
+
+```
+assets/screenshots/homepage.png
+```
+
+---
+
+# 🛠️ Technologies Used
+
+* **HTML5**
+* **CSS3**
+* **Flexbox**
+* **Responsive Web Design**
+
+---
+
+# 📂 Project Structure
+
+```
+Studysync-UI-Clone
+│
+├── index.html
+│
+├── styles
+│   └── styles.css
+│
+├── assets
+│   ├── images
+│   │   ├── StudySyn.svg
+│   │   ├── Hamburger.svg
+│   │   ├── Google.svg
+│   │   ├── Microsoft.svg
+│   │   ├── avatar1.png
+│   │   ├── avatar2.png
+│   │   └── avatar3.png
+│   │
+│   └── icons
+│
+└── README.md
+```
+
+---
+
+# ✨ Features
+
+### 📌 Navigation Bar
+
+* Logo and brand name
+* Navigation links
+* Contact button
+* Mobile hamburger icon
+
+### 🎯 Hero Section
+
+* Platform introduction
+* Description text
+* Call-to-action buttons
+* Hero illustration
+
+### 🏢 Trusted Companies
+
+Displays partner companies such as:
+
+* Google
+* Microsoft
+* VectorEdu
+* Industry Partner
+
+### ⚡ Features Section
+
+Highlights platform capabilities:
+
+* Personalized Learning
+* Advanced Analytics
+* Affordable Learning
+* Innovative Technology
+* Industry Partnerships
+
+### 💬 Testimonials
+
+Displays feedback from users with avatars.
+
+### 📧 Newsletter
+
+Allows users to subscribe for updates.
+
+### 🔗 Footer
+
+Includes:
+
+* Social media icons
+* Navigation links
+* Copyright information
+
+---
+
+# 💻 How to Run the Project
+
+### 1️⃣ Clone the repository
+
+```bash
+git clone https://github.com/vishnusuresh-dev/Studysync-UI-Clone.git
+```
+
+### 2️⃣ Open the project folder
+
+```
+cd studysync-ui-clone
+```
+
+### 3️⃣ Run the project
+
+Simply open:
+
+```
+index.html
+```
+
+in your browser.
+
+---
+
+# 📚 Learning Goals
+
+This project helped practice:
+
+* Building **real-world UI layouts**
+* Creating **responsive landing pages**
+* Using **Flexbox for layout alignment**
+* Writing **clean HTML structure**
+* Styling with **modern CSS techniques**
+
+---
+
+# 🔮 Future Improvements
+
+* Add **JavaScript mobile menu toggle**
+* Add **animations and hover effects**
+* Improve **mobile responsiveness**
+* Convert to **React components**
+* Add **dark mode**
+
+---
+
+# 👨‍💻 Author
+
+**Vishnu S**
+
+Frontend Developer | UI Enthusiast
+
+---
