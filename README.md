@@ -25,8 +25,8 @@ Or click below:
 
 <p align="center">
   <img src="assets/preview/Screenshot.png" width="900">
-  <img src="assets/preview/Screenshot 2.png" width="900">
-  <img src="assets/preview/Screenshot 3.png" width="900">
+  <img src="assets/preview/Screenshot 2.png" width="300">
+  <img src="assets/preview/Screenshot 3.png" width="300">
 </p>
 
 ---
